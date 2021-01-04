@@ -69,4 +69,4 @@ In the meeting, all PR's will be gone through and discussed. If agreed upon, the
 
 ### Testing Your Changes
 
-It's best to test any changes you want to the [radar](csp-tech-radar.csv) CSV file by pushing them to github in a new branch (as per the contributing guidelines above). Navigating to the [radar](csp-tech-radar.csv) CSV file on github for your new branch (not on master!) and select the "Raw" view of the file. You can then copy the link to this file and enter it into the [ThoughtWorks radar tool](https://radar.thoughtworks.com) to render it with your changes.
+It's best to test any changes you want to the radar CSV file by pushing them to github in a new branch (as per the contributing guidelines above). Navigating to the radar CSV file on github for your new branch (not on main!) and select the "Raw" view of the file. You can then copy the link to this file and enter it into the [ThoughtWorks radar tool](https://radar.thoughtworks.com) to render it with your changes.
