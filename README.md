@@ -6,14 +6,14 @@ This repository contains all past and upcoming tech radars for the department. T
 
 - [Tech Radar](#tech-radar)
   - [Contents](#contents)
-  - [## Links to previous radars](#-links-to-previous-radars)
+  - [Links to previous radars](#links-to-previous-radars)
     - [2020](#2020)
-  - [## Structure](#-structure)
-  - [## Terminology](#-terminology)
+  - [Structure](#structure)
+  - [Terminology](#terminology)
     - [Blips](#blips)
     - [Quadrants:](#quadrants)
     - [Rings:](#rings)
-  - [## Contribution](#-contribution)
+  - [Contribution](#contribution)
     - [Adding to the radar](#adding-to-the-radar)
     - [Testing Your Changes](#testing-your-changes)
 
@@ -25,7 +25,6 @@ Below are links to visualisations of agreed and completed tech radars.
 ### 2020
 
 - [Q1](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fwordshaker%2Ftechradar%2Fmain%2F2020%2FLAA%25202020%2520-%2520Q1.csv)
-
 
 ## Structure
 ---
