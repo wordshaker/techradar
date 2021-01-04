@@ -1,0 +1,17 @@
+---
+name: Radar Request
+about: Suggest additions, deletions or edits to an upcoming radar
+title: 'Radar:'
+labels: to-discuss
+assignees: ''
+---
+
+### Describe the change
+
+- What have you added, removed or changed on the radar
+
+### Reasoning and references
+
+- Why have you made the change?
+- Is there a use case within LA for this change?
+- Link any relevant reference material
