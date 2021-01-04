@@ -1,2 +1,11 @@
-# techradar
-Using ThoughtWorks Tech Radar. A repository for example setup.
+# Tech Radar
+
+Description
+
+## Contents
+
+## How to view radars
+
+## How to edit and add to radars
+
+
