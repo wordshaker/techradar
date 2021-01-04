@@ -1,6 +1,6 @@
 # Tech Radar
 
-Description
+This repository contains all past and upcoming tech radars for the department. Tech Radars are useful for discussing our current tech ecosystem, what we find useful in our teams, what we want to decommission and what we want to try.
 
 ## Contents
 
