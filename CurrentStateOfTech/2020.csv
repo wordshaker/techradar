@@ -1,0 +1,7 @@
+name,ring,quadrant,isNew,description,
+RSpec,Recommended,Tools,FALSE,Testing framework for Ruby/Ruby on Rails. Tests include clear statements explaining how the application is expected to behave. RSpec is currently the default choice and is used for all existing applications within the department. https://github.com/rspec/rspec-rails,
+Test Driven Development,Recommended,Techniques,TRUE,The preferred way of driving development.,
+Minitest 2,Limited Use,Platforms,FALSE,Developers should aim to use RSpec for consistency with existing applications,however Minitest is a valid alternative and can be used given reasonable justification https://github.com/seattlerb/minitest
+PyTest 3,In Trial,Tools,TRUE,The pytest framework makes it easy to write small tests,yet scales to support complex functional testing for applications and libraries https://pypi.org/project/pytest/
+AWS Lambda,In Trial,Platforms,TRUE,In trial for teams X Y and Z,
+XUnit,Do Not Use,Languages-And-Frameworks,TRUE,Currently there are not .NET frameworks in use at LAA so XUnit is not applicable for the languages we use.,
