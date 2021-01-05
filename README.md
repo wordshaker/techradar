@@ -4,20 +4,18 @@ This repository contains all past and upcoming tech radars for the department. T
 
 ## Contents
 
-- [Tech Radar](#tech-radar)
-  - [Contents](#contents)
   - [Current Tech](#current-tech)
     - [Current State of Tech Radars](#current-state-of-tech-radars)
-  - [## Tech Radars](#-tech-radars)
+  - [Tech Radars](#tech-radars)
     - [Past Radars](#past-radars)
-  - [## Structure](#-structure)
-  - [## Terminology](#-terminology)
+  - [Structure](#structure)
+  - [Terminology](#terminology)
     - [Blips](#blips)
-    - [Quadrants:](#quadrants)
-    - [Rings:](#rings)
-      - [For Current State Of Tech:](#for-current-state-of-tech)
-      - [For Tech Radar:](#for-tech-radar)
-  - [## Contribution](#-contribution)
+    - [Quadrants](#quadrants)
+    - [Rings](#rings)
+      - [For Current State Of Tech](#for-current-state-of-tech)
+      - [For Tech Radar](#for-tech-radar)
+  - [Contribution](#contribution)
     - [Adding to the radar](#adding-to-the-radar)
     - [Testing Your Changes](#testing-your-changes)
 
@@ -62,22 +60,22 @@ The opinions are categorised into quadrants and rings on the radar as per the Th
 ### Blips
 These are the points on the radar which can be opened for more information.
 
-### Quadrants:
+### Quadrants
 * Languages & Frameworks - What we write our software in (Development)
 * Platforms - What we run our software systems on and where we persist our data (Operations)
 * Tools - What we use on the side to improve the way we develop and operate our systems (Dev & Ops)
 * Techniques - What methods & practices we follow
 
-### Rings:
+### Rings
 
-#### For Current State Of Tech:
+#### For Current State Of Tech
 
 * Recommended - Is in frequent use, is well known and battle hardened by the team.
 * Limited Use - Is used in some places and there is some knowledge around it.
 * In Trial - Has been discussed as an option and is being trialed in a PoC or project.
 * Do Not Use - Has been tried and is not recommended for our use case unless something has dramatically changed.
   
-#### For Tech Radar:
+#### For Tech Radar
 
 * Adopt - Mature and ready for use. You should be using these technologies if they are appropriate for your problem.
 * Trial - Proven to be ready for use but not yet widely used. Should be carefully monitored when used in production.
